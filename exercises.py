@@ -121,6 +121,24 @@ area= .5*float(x)*float(y)
 print(area)
 '''
 
-
+#Q14
+x=11
+y=3
+print(x+y)
+print(x-y)
+print(x*y)
+print(x/y)
+print(x//y)
+print(x%y)
+print(abs(x*-1))
+print(int(x))
+print(int(x))
+print(float(x))
+print(divmod(x,y))
+print(pow(x,y))
+print(x**y)
+print(x>y)
+print(x==y)
+print(x!=y)
 
 
